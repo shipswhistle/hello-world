@@ -1,2 +1,3 @@
 # hello-world
-first attempt
+
+This is my first attempt at github.com.
