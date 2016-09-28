@@ -1,3 +1,3 @@
 # hello-world
 
-This is my first attempt at  coding on github.com.
+This is my first attempt at github.com.
